@@ -16,3 +16,15 @@ Cerveja Sem Alcool altera preço "R$ 4,20"
 Suco Natural de Limão inclui
 Suco Natural de Limão altera preço "R$ 4,00"
 Endereço incluir "Dr."
+
+20150610 V2.0
+
+Sai a parte da comida Japonesa
+Inclui "Servimos almoço executivo de segunda a sexta! Consulte o cardápio!"
+Filé mignon com Gorgonzola altera preço "R$ 38,60"
+Parmeggiana no palito altera preço "R$ 36,60"
+Fritas Floridas altera preço "R$ 17,80"
+Fritas Americanas altera preço "R$ 17,80"
+Fritas Trufadas altera preço "R$ 17,80"
+Torresmo com Mandioca altera preço "R$ 15,20"
+Torresmo altera preço "R$ 16,80"
