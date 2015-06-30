@@ -1,3 +1,18 @@
 20150306 V1.0
 
 Criação
+
+20150325 V1.1
+
+Água de "R$ 10,20" para "R$ 2,20"
+Filé Mignon com Gorgonzola de "500g" para "400g"
+Bacalhau do Pub exclui "Manteiga" 
+Bacalhau do Pub inclui "Couve/Broócolis"
+Filé de Kaetê inclui "Cogumelo/Brocolis"
+Cerveja Lata inclui "Skol"
+Cerveja Lata altera preço "R$ 4,20"
+Cerveja Malzebier altera preço "R$ 4,20"
+Cerveja Sem Alcool altera preço "R$ 4,20"
+Suco Natural de Limão inclui
+Suco Natural de Limão altera preço "R$ 4,00"
+Endereço incluir "Dr."
