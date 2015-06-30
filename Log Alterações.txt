@@ -28,3 +28,26 @@ Fritas Americanas altera preço "R$ 17,80"
 Fritas Trufadas altera preço "R$ 17,80"
 Torresmo com Mandioca altera preço "R$ 15,20"
 Torresmo altera preço "R$ 16,80"
+
+20150610 V2.1
+
+Separar Sucos
+Suco Lata altera preço "R$ 4,00"
+Suco natural Laranja ou Limão altera preço "R$ 4,20"
+Incluir Sobremesas
+Incluir Fondue de chocolate com frutas
+Fondue de chocolate com frutas altera preço "R$ 22,80"
+Incluir Fondue de chocolate Misto (futas e biscoitos)
+Fondue de chocolate Misto altera preço "R$ 22,80"
+Incluir Fondue de chocolate com biscoitos
+Fondue de chocolate com biscoitos altera preço "R$ 17,80"
+Incluir Mousse (consultar sabores)
+Incluir Mousse Pequeno
+Mousse Pequeno altera preço "R$ 4,00"
+Incluir Mousse Médio
+Mousse Médio altera preço "R$ 6,00"
+Incluir Vinhos (seco e seco suave)
+Incluir Miolo Seleção
+Miolo Seleção altera preço "R$ 34,60"
+Inlcuir Marcus James
+Marcus James altera preço "R$ 32,60"
